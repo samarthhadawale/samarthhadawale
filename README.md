@@ -29,8 +29,11 @@
 - 🛢 &nbsp;   
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=samarthhadawale&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+<a href="https://github.com/samarthhadawale">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthhadawale&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthhadawale&theme=buefy&layout=compact" />
+</a>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
