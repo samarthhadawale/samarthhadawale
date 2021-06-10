@@ -11,16 +11,12 @@
 
 <h3> 🛠 &nbsp;Technology Stack</h3>
 
-- 💻 &nbsp;
-
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 💻 &nbsp;![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
   ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=R)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
-- 🛢 &nbsp; 
- 
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- 🛢 &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  
 - ⚙️ &nbsp;
