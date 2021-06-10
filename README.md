@@ -36,6 +36,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/samarthhadawale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Samarth%20Hadawale-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hadawale.sa@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-hadawale.sa@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="https://samarthhadawale.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/-MyPortfolio-61DAFB?logo=portfolio&logoColor=white&logoWidth=30"></a>  
+<a href="https://samarthhadawale.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/-MyPortfolio-61DAFB?logo=portfolio&logoColor=white&logoWidth=30"></a> 
+<a href="https://public.tableau.com/profile/samarth.hadawale#!/?newProfile=&activeTab=0"><img alt="Portfolio" src="https://img.shields.io/badge/-TableauPublic-61DAFB?logo=tableaupublic&logoColor=white&logoWidth=30"></a> 
   
 </p>
