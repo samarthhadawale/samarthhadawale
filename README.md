@@ -12,6 +12,7 @@
 <h3> 🛠 &nbsp;Technology Stack</h3>
 
 - 💻 &nbsp;
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
   ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=R)
