@@ -17,16 +17,19 @@
   ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=R)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
-- 🛢 &nbsp;  
+- 🛢 &nbsp; 
+ 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  
 - ⚙️ &nbsp;
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
    
 - 🛢 &nbsp;   
+
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 <a href="https://github.com/samarthhadawale">
